@@ -41,6 +41,8 @@ _Удобно использовать в **таких случаях**_
 [Справочник по Markdown от Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference "Перейти на страницу Microsoft") 
 
 ## Изображения
-**![Текст](имя файла или ссылка)**
+**![Текст](путь и название файла.ext)**
 
-![Geek Brains](GeekBrains.webp)
+*Если файл находится в текущей директории, то путь указывать не надо*
+
+![Geek Brains](GeekBrainsMedium.jpeg)
