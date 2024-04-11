@@ -1,4 +1,8 @@
 # Работа с контролем версий GIT
+## Ссылки для инсталлировния GIT и Visual Studio Code
+[Установка Git для Windows, MAC, Linux](https://git-scm.com/downloads)
+
+[Установка VSCode для Windows, MAC, Linux](https://code.visualstudio.com/Download)
 ## Алгоритм действий
 1. Создаем папку
 2. Запускаем терминал и заходим в директорию используя команду *cd* + пробел + путь к папке
